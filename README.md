@@ -1,5 +1,11 @@
-### Hi there 👋
+### Sobre mim:
+- 🔭 Técnico em TI 
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 👯 Fã de software livre
+- 🤔 Focado atualmente em Desenvolvimento Web
 
+### Contato:
+- <a href="mailto:igoracm@outlook.com">📫 igoracm@outlook.com</a>
 <!--
 **igoracmelo/igoracmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
