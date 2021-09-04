@@ -1,7 +1,7 @@
 ### About me:
 - 🔭 Information Technology technician 
 - 🌱 System Analysis student
-- 👯 FOSS fan
+- 👯 FOSS lover
 - 🤔 Currently focused on Web Development
 
 ### Contact me:
