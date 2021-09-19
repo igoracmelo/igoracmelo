@@ -1,5 +1,4 @@
 ## About me:
-- 🔭 Information Technology technician 
 - 🌱 System Analysis student
 - 👯 FOSS lover
 - 🤔 Currently focused on Web Development
