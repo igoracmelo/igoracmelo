@@ -15,7 +15,7 @@ Keep in mind I recently moved from `igorcmelo` account, which was a mess fulled 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoracmelo&langs_count=10&theme=radical&layout=compact" width="max(50%, 300px)" />
 
-Yeah, GDScript is top 1 because of a huge game script I am doing.
+Yeah, GDScript was top 1 because of a huge game script I am doing.
 
 
 
