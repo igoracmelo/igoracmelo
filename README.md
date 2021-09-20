@@ -7,13 +7,13 @@
 
 ## That common GitHub Stats you're used to see:
 
-<img src="https://github-readme-stats.vercel.app/api?username=igoracmelo&theme=radical" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=igoracmelo&theme=radical" width="max(50%, 300px)" />
 
 Keep in mind I recently moved from `igorcmelo` account, which was a mess fulled of old and abandoned projects.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoracmelo&langs_count=10&theme=radical&layout=compact" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoracmelo&langs_count=10&theme=radical&layout=compact" width="max(50%, 300px)" />
 
 Yeah, GDScript is top 1 because of a huge game script I am doing.
 
