@@ -1,16 +1,4 @@
-## About me:
-- 🌱 System Analysis student
-- 👯 FOSS lover
-- 🤔 Currently focused on Web Development
-- Contact me at <a href="mailto:igoracm@outlook.com">📫 igoracm@outlook.com</a>
-<br>
-
 ## Activities
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=igoracmelo&theme=react&hide_border=true&show_icons=true&custom_title=Contributions%20Graph" />
-</div>
-<br/>
-<br/>
 <div>
   <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=igoracmelo&theme=react&hide_border=true" alt="igoracmelo" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=igoracmelo&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="igoracmelo" />
